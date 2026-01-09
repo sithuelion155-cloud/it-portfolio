@@ -43,3 +43,24 @@ Password reset and account verification allowed the user to log in successfully.
 - User account management
 - Windows login troubleshooting
 - User communication and verification
+
+---
+
+## Issue 3: Application Not Responding or Crashing
+
+**Problem**
+User reports that an application frequently freezes or crashes during use.
+
+**Troubleshooting Steps**
+1. Checked system resource usage (CPU, memory).
+2. Restarted the application and system.
+3. Updated the application to the latest version.
+4. Reinstalled the application if issues persisted.
+
+**Resolution**
+Updating and reinstalling the application resolved stability issues.
+
+**Skills Practiced**
+- Software troubleshooting
+- System performance checks
+- Structured issue resolution
