@@ -22,3 +22,24 @@ Resetting the network adapter and flushing DNS restored internet access.
 - Basic network troubleshooting
 - Logical problem-solving
 - Clear issue documentation
+
+---
+
+## Issue 2: User Cannot Log In to Windows
+
+**Problem**
+User is unable to log in to their Windows account due to incorrect password or account lock.
+
+**Troubleshooting Steps**
+1. Verified username and login credentials with the user.
+2. Checked Caps Lock and keyboard language settings.
+3. Reset the user password.
+4. Made sure the account was not locked or disabled.
+
+**Resolution**
+Password reset and account verification allowed the user to log in successfully.
+
+**Skills Practiced**
+- User account management
+- Windows login troubleshooting
+- User communication and verification
