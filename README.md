@@ -1,5 +1,3 @@
-# it-portfolio
-
 # IT Support & AI-Assisted Operations Portfolio
 
 Hi, I’m Si Thu Maung, an IT student focused on IT Support and IT Operations.
