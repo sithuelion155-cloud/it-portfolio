@@ -17,3 +17,7 @@ Using AI tools to assist with ticket categorization, troubleshooting steps, and 
 
 ### 3. Deepfake AI Awareness Project
 Led and delivered an educational AI project demonstrating Deepfake concepts, risks, and live software demos.
+
+### 4. Virtual Job Simulations (Forage)
+Completed structured virtual job simulations to practice technical problem-solving, debugging, and professional documentation in an industry-aligned environment. [Virtual Job Simulations (Forage)](./forage-job-simulations)
+
