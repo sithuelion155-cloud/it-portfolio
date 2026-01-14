@@ -15,9 +15,11 @@ Simulated real-world IT support scenarios including OS issues, connectivity prob
 ### 2. AI-Assisted IT Support Workflow
 Using AI tools to assist with ticket categorization, troubleshooting steps, and user communication.
 
-### 3. Deepfake AI Awareness Project
-Led and delivered an educational AI project demonstrating Deepfake concepts, risks, and live software demos.
+### 3. Deepfake AI Awareness Project (Project Lead)
+Educational AI awareness project involving software installation, live demonstrations, and clear communication of Deepfake concepts and risks to non-technical audiences.
+[Deepfake AI Awareness Project](./deepfake-ai-awareness-project)
 
 ### 4. Virtual Job Simulations (Forage)
-Completed structured virtual job simulations to practice technical problem-solving, debugging, and professional documentation in an industry-aligned environment. [Virtual Job Simulations (Forage)](./forage-job-simulations)
+Completed structured virtual job simulations to practice technical problem-solving, debugging, and professional documentation in an industry-aligned environment. 
+[Virtual Job Simulations (Forage)](./forage-job-simulations)
 
