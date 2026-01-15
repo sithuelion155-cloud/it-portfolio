@@ -26,3 +26,26 @@ Completed a structured software development job simulation designed to reflect r
 
 **Note**
 This was a guided virtual job simulation intended to mirror real-world tasks, completed alongside hands-on IT support and AI workflow projects.
+
+---
+
+## Service Desk Job Simulation – Datacom
+
+**Platform**  
+Forage (Virtual Job Simulation)
+
+**Overview**  
+Completed a virtual Service Desk job simulation focused on real-world IT support scenarios.
+
+**Tasks Performed**
+- Analyzed incoming service desk tickets and user-reported issues.
+- Applied structured troubleshooting approaches.
+- Practiced incident prioritization and escalation decisions.
+- Drafted clear and professional responses for non-technical users.
+
+**Skills Practiced**
+- Service desk workflows
+- IT troubleshooting fundamentals
+- User-focused communication
+- Documentation and escalation
+
