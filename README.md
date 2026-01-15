@@ -20,6 +20,7 @@ Educational AI awareness project involving software installation, live demonstra
 [Deepfake AI Awareness Project](./deepfake-ai-awareness-project)
 
 ### 4. Virtual Job Simulations (Forage)
-Completed structured virtual job simulations to practice technical problem-solving, debugging, and professional documentation in an industry-aligned environment. 
+Completed structured virtual job simulations, including Software Development and Service Desk job simulations to practice technical problem-solving, debugging, and professional documentation in an industry-aligned environment. 
 [Virtual Job Simulations (Forage)](./forage-job-simulations)
+
 
