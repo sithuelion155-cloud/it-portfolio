@@ -7,6 +7,18 @@ This repository documents hands-on projects where I practice:
 - System and user support workflows
 - AI-assisted automation for IT tasks
 
+---
+
+## Education & Academic Training
+
+### Diploma of Information Technology  
+Built strong fundamentals in IT support and systems used in small-to-medium enterprise environments. Training focused on operating system configuration, networking basics, system security, web programming, database fundamentals, and cybersecurity awareness. Developed practical skills in troubleshooting, documentation, and client communication.
+
+### Advanced Diploma of Information Technology (Ongoing)  
+Developing higher-level ICT skills with a focus on cloud computing, cybersecurity assessments, data analytics, artificial intelligence, and advanced programming. Programme emphasizes applying technology to real business problems, process improvement, and leadership.  
+**Industrial attachment (internship) pending**, actively seeking an opportunity to apply these skills in a real-world environment.
+
+
 ## Projects
 
 ### 1. IT Support Practice Lab
