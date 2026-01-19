@@ -49,3 +49,30 @@ Completed a virtual Service Desk job simulation focused on real-world IT support
 - User-focused communication
 - Documentation and escalation
 
+---
+
+## Partnering with AI in the Workplace – Datacom
+
+**Platform**  
+Forage (Virtual Job Simulation)
+
+**Completion Date**  
+January 2026
+
+**Overview**  
+Completed a virtual job simulation focused on effectively partnering with generative AI tools to support real-world workplace tasks and decision-making.
+
+**Tasks Performed**
+- Partnered with generative AI tools (e.g., ChatGPT) to research, write, design, and debug in fast-paced project scenarios.
+- Created client-ready reports and presentations by prompting AI for feature ideas, technical examples, and visual storytelling guidance.
+- Diagnosed and resolved a website issue by guiding AI through structured troubleshooting and testing steps.
+- Used AI tools to improve productivity, clarify project requirements, and deliver solutions more efficiently, including feature planning and UI ideas.
+
+**Skills Practiced**
+- Practical AI prompting and collaboration
+- Problem-solving and self-directed learning
+- Technical communication and documentation
+- Productivity and workflow optimization
+
+**Note**  
+This was a guided virtual job simulation designed to reflect real workplace collaboration with AI tools in non-specialist technical roles.
